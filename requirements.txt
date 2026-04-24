@@ -1,0 +1,9 @@
+# Protocolo de rede MQTT
+paho-mqtt
+
+# Conexão com o banco de dados
+mysql-connector-python
+
+# Construção do Dashboard Frontend
+streamlit
+pandas
